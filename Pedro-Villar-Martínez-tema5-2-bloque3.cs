@@ -6,7 +6,7 @@
         //Ejercicio 6
 
         /*
-        int numMayor = default;
+        int numMayor = default; /* Tienes que rellenar el array aleatorio. Modulariza este ejercicio*/
         int posicion = default;
 
         int[] array = new int[] {1,2,3,4,5,6,7,8,9,10};
@@ -56,7 +56,7 @@
 
            */
 
-        //Ejercicio 10
+        //Ejercicio 10 /*Consulta este ejercicio que tiene una solución mucho más simple*/
 
         /*
         int[] resultados = new int[25];
