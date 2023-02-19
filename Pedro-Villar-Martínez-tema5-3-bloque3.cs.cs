@@ -20,7 +20,7 @@
     */
 
     [Flags]
-    public enum color : byte
+    public enum color : byte /*El nombre de los enumerados en mayúsculas*/
 
     {
         None = 0b_0000_0000,
